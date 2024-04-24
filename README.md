@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Notebook Organizer Project**
 
-- 🌱 I’m currently learning **Php 8, Symfony 6, Linux, MySQL, Docker**
+- 🌱 I’m currently learning **Python, Linux, MySQL, Docker, Php 8, Symfony 6,**
 
-- 💬 Ask me about **Php**
+- 💬 Ask me about **Python, Php**
 
 - 📫 How to reach me **bielechanna@gmail.com**
 
