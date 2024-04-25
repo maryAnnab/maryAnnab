@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anna</h1>
 <h3 align="center">A passionate backend developer and I live in Belgium</h3>
 
-- 🔭 I’m currently working on **Notebook Organizer Project**
+- 🔭 I’m currently working on **Project toDoList_python**
 
 - 🌱 I’m currently learning **Python, Linux, MySQL, Docker, Php 8, Symfony 6,**
 
